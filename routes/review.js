@@ -5,7 +5,7 @@ const ExpressError =  require("../utils/ExpressError.js");
 const Review = require("../models/review");
 const {reviewSchema} = require("../schema.js")
 const Listing = require("../models/listing");   //because we also adds and delete reviews from Listings
-
+const { isLoggedIn } = require("../middleware.js");
 
 const validateReview = (req,res,next)=>{
     let {error} = reviewSchema.validate(req.body);
