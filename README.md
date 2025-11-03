@@ -29,9 +29,13 @@ This project is built with the following technologies:
 The repository is organized in a standard Model-View-Controller (MVC) pattern:
 /
 ├── app.js              # Main application entry point
+
 ├── package.json        # Project dependencies
+
 ├── .gitignore          # Files to be ignored by Git
+
 ├── cloudConfig.js      # Configuration for cloud services (e.g., Cloudinary)
+
 ├── middleware.js       # Custom Express middleware
 ├── schema.js           # Data validation schemas (e.g., Joi)
 │
