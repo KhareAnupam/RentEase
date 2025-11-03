@@ -1,5 +1,6 @@
 # RentEase 
  [![Live Demo](https://img.shields.io/badge/Live%20Demo-Visit%20Site-brightgreen)](https://rentease-05gw.onrender.com)  
+ **Live Demo:** [https://your-deployment-link.com](https://your-deployment-link.com)
 
 RentEase is a full-stack web application designed to be a marketplace for property rentals. It allows users to browse, list, and rent properties, creating a platform similar to a simplified Airbnb.
 
