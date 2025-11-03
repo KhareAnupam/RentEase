@@ -15,12 +15,12 @@ RentEase is a full-stack web application designed to be a marketplace for proper
 This project is built with the following technologies:
 
 * **Backend:** Node.js, Express.js
-* **Frontend:** EJS (Embedded JavaScript) for templating, CSS, Bootstrap (likely)
-* **Database:** MongoDB (likely, using Mongoose)
+* **Frontend:** EJS (Embedded JavaScript) for templating, CSS, Bootstrap
+* **Database:** MongoDB (using Mongoose)
 * **File Storage:** Cloudinary (inferred from `cloudConfig.js`)
-* **File Uploads:** Multer (likely)
-* **Authentication:** Passport.js (likely)
-* **Validation:** Joi (likely, from `schema.js`)
+* **File Uploads:** Multer 
+* **Authentication:** Passport.js 
+* **Validation:** Joi (from `schema.js`)
 
 ## Project Structure
 
