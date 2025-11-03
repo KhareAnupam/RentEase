@@ -37,15 +37,23 @@ The repository is organized in a standard Model-View-Controller (MVC) pattern:
 ├── cloudConfig.js      # Configuration for cloud services (e.g., Cloudinary)
 
 ├── middleware.js       # Custom Express middleware
-├── schema.js           # Data validation schemas (e.g., Joi)
-│
+
+├── schema.js           # Data validation schemas (e.g., Joi)  
+│  
 ├── controllers/        # Logic for handling requests
+
 ├── init/               # Database initialization scripts
+
 ├── models/             # Database schemas (e.g., Mongoose models)
+
 ├── public/             # Static assets (CSS, JavaScript)
+
 ├── routes/             # Express route definitions
+
 ├── uploads/            # Local directory for file uploads (if used)
+
 ├── utils/              # Utility functions
+
 └── views/              # EJS templates (.ejs files)
 
 ## Getting Started
